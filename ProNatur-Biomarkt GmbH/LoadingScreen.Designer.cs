@@ -41,7 +41,7 @@
             // loadingProgressbar
             // 
             this.loadingProgressbar.Anchor = System.Windows.Forms.AnchorStyles.Bottom;
-            this.loadingProgressbar.Location = new System.Drawing.Point(2, 288);
+            this.loadingProgressbar.Location = new System.Drawing.Point(12, 288);
             this.loadingProgressbar.Name = "loadingProgressbar";
             this.loadingProgressbar.Size = new System.Drawing.Size(660, 21);
             this.loadingProgressbar.TabIndex = 0;
